@@ -135,8 +135,6 @@ The [Valgrind README](http://valgrind.org/docs/manual/dist.readme-android.html "
 
 Running an app in the emulator gives you powerful ways to monitor and manipulate its environment. For some reverse engineering tasks, especially those that require low-level instruction tracing, emulation is the best (or only) choice. Unfortunately, this type of analysis is only viable for Android, because no emulator exists for iOS (the iOS simulator is not an emulator, and apps compiled for an iOS device don't run on it). We'll provide an overview of popular emulation-based analysis frameworks for Android in the "Tampering and Reverse Engineering on Android" chapter.
 
-<br/>
-<br/>
 
 #### Custom Tooling with Reverse Engineering Frameworks
 
